@@ -1,5 +1,6 @@
 JS Monthly Challenge Nov 14
 ===========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/benjamingr/JS-Monthly-Challenge-Nov-14?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Challenge is done - the winner by a fair and transparent voting process is Zirak with 15322 votes*, it was a close call.
 
